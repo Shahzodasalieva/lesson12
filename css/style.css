@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    background-color: grey;
+    height: 200px;
+    text-align: center;
+    line-height: 200px;
+}
+nav{
+    background-color: orchid;
+    height:50px ;
+    text-align: center;
+    line-height: 50px;
+}
+aside{
+    background-color: black;
+    color: blueviolet;
+    text-align: center;
+    width: 45%;
+    height: 400px;
+    line-height: 400px;
+    float: left;
+}
+main{
+    background-color: blue;
+    text-align: center;
+    width: 55%;
+    height: 400px;
+    line-height: 400px;
+    float: right;
+}
+footer{
+    background-color: fuchsia;
+    text-align: center;
+    height: 200px;
+    clear: both;
+    line-height:200px ;
+}
